@@ -1,6 +1,6 @@
 # A
-just test.
-this is my first time to  try writing readme.
+## just test.
+## this is my first time to  try writing readme.
 #### Python的历史
 
 1. 1989年圣诞节：Guido von Rossum开始写Python语言的编译器。
