@@ -1,5 +1,5 @@
 # A
-just test
+just test.
 this is my first time to  try writing readme.
 #### Python的历史
 
